@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253950980747",
+    "project_id": "moverse-capstone",
+    "storage_bucket": "moverse-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253950980747:android:3723a18a8e5760ef941a8e",
+        "android_client_info": {
+          "package_name": "com.akj.a0924"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253950980747-40dt3eku7r8euh0jell669a6952526hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akj.a0924",
+            "certificate_hash": "dca19723a580b0d6b6eb6f922ee1065eb5278e6b"
+          }
+        },
+        {
+          "client_id": "253950980747-1sc4qjsoccpb3cnm3enrpkr0brtimpmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgP9UqL8dHPGWI5mKHvF43YmUkDy5HE8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253950980747-1sc4qjsoccpb3cnm3enrpkr0brtimpmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
